@@ -1,5 +1,5 @@
 <div class="header" alig="center">
-<ing src="https://cdn.icon-icons.com/icons2/214/PNG/256/my_computer_25194.png" width="80">
+<ing src="https://i0.wp.com/images.onwardstate.com/uploads/2015/05/oie_14175751vZSQRLEn.gif?fit=650%2C408&ssl=1" width="80">
 <h1 align="center">Hola👋, Soy Luis</h1>
 <h3 align="center">Futuro Programador :D</h3>
 
