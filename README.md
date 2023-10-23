@@ -5,9 +5,6 @@
 
 - 🌱 actualmente estoy aprendiendo ** soldadura, programación, diseño e impresión 3D.**
 
-<h3 align="left">Conéctate conmigo:</h3>
-<p align="left">
-</p>
 
 <h3 align="left">Idiomas y Herramientas :</h3>
-
+<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mysql_original_wordmark_logo_icon_146417.png"
